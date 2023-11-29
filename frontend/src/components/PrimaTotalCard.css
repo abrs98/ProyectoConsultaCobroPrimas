@@ -1,0 +1,68 @@
+div.column{
+
+    float: left;
+    padding: 10px;
+    border: 3px solid black;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 25%;
+    display: grid;
+    justify-content: flex;
+    background-color: whitesmoke;
+
+}
+
+div.row-percentage{
+    align-items: right;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+
+div.column-row{
+    
+    flex-direction: row;
+    float: left;
+    padding: 1px;
+    margin: 10px;
+    width: 30%;
+    justify-content: center;
+
+}
+
+div.defeatedPercentage{
+    font-size: x-large ;    
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: red;
+}
+
+div.validPercentage{
+    font-size: x-large ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;;
+    color: blue;
+}
+
+div.divisa{
+    text-align: left;
+    margin-left: 20px;
+    font-size: x-large ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow', sans-serif;;
+    color: darkslategray;
+}
+
+span.totalAmount{
+    align-items: left;
+    font-size: xx-large ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;;
+    color: black;
+
+}
+
+div.validAmount{
+    color: blue;
+}
+
+div.defeatedAmount{
+    color: red;
+}

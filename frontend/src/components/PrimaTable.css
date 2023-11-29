@@ -1,0 +1,50 @@
+table{
+    border-collapse: collapse;
+    text-align: center;
+	vertical-align: middle;
+}
+
+
+td {
+    font-family: sans-serif;
+    padding: 15px;
+    /*background-color: white;*/
+    color: black;
+    border-left: 1px solid black;
+    
+}
+
+td.peligro{
+    font-family: sans-serif;
+    padding: 15px;
+    /*background-color: white;*/
+    color: black;
+    background: rgba(255, 174, 0, 0.5);
+}
+
+td.vencido{
+    font-family: sans-serif;
+    padding: 15px;
+    /*background-color: white;*/
+    color: black;
+    background: rgba(255, 0, 0, 0.5);
+}
+
+td.valido{
+    font-family: sans-serif;
+    padding: 15px;
+    /*background-color: white;*/
+    color: black;
+    background: rgba(0, 255, 0, 0.5);
+}
+
+th{
+    color: lightblue;
+    padding: 15px;
+}
+
+thead {
+  background-color: #333;
+  color: white;
+  letter-spacing: 20%;
+}

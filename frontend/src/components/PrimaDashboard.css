@@ -1,0 +1,53 @@
+div.container{
+  width: 100%;
+  height: 100%;
+  margin: 20px;
+  background-color: black;
+  padding: 50px;
+  display: grid;
+  justify-content: center;
+
+}
+
+div.row {
+  width: 100%;
+  margin: 20px;
+  display: flex;
+  justify-content: center;
+  vertical-align: middle;
+}
+
+div.row-card {
+  width: 100%;
+  margin: 20px;
+  display: left;
+  justify-content: center;
+}
+div.row-filter {
+  width: 100%;
+  margin: 20px;
+  display: flex;
+  justify-content: left;
+}
+
+h1{
+    color: lightblue;
+}
+
+div.column-button{
+    justify-content: space-between ;
+    padding: 5px;
+    flex-direction: row;
+    float: left;
+    width: 18%;
+    justify-content: flex-end;
+    font-size: large;
+
+}
+
+span.title{
+    margin-right: 20px;
+    font-family: fantasy;
+    color: lightblue;
+
+}
