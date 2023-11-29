@@ -28,7 +28,7 @@ function PrimaTable({ estado, agente, tipo }) {
 
     return (
         <>
-            <div className='column-table'>
+            <div>
 
                 <table>
 

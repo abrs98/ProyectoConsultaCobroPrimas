@@ -89,7 +89,7 @@ function PrimaDashboard() {
                     <PrimaTotalCard divisa={'Euros'} estado={estado} agente={agente} tipo={tipo} />
                 </div>
 
-                <div className="row">
+                <div className="row-table">
                     <PrimaTable estado={estado} agente={agente} tipo={tipo} />
                 </div>
          

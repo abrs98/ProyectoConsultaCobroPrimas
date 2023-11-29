@@ -23,6 +23,13 @@ div.row-card {
   display: left;
   justify-content: center;
 }
+
+div.row-table {
+  width: 100%;
+  margin: 20px;
+  display: left;
+  justify-content: center;
+}
 div.row-filter {
   width: 100%;
   margin: 20px;

@@ -14,9 +14,7 @@ function App() {
       <div className="App">
 
         <PrimaDashboard/>
-        
-      </div>
-      {/*<div>
+        <div>
         <span>{}</span>
       </div>
       <div>
@@ -38,7 +36,9 @@ function App() {
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
-      </p>*/}
+      </p>
+      </div>
+      
     </>
   )
 }

@@ -2,6 +2,8 @@ table{
     border-collapse: collapse;
     text-align: center;
 	vertical-align: middle;
+    font-size: small;
+    margin: 0px;
 }
 
 
@@ -48,3 +50,4 @@ thead {
   color: white;
   letter-spacing: 20%;
 }
+
